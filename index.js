@@ -1,1 +1,1 @@
-console.error("Wrong!")
+console.log("Your fine!")
